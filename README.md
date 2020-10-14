@@ -8,7 +8,7 @@ This repo contains the starter code for the Route Planning project.
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+gh repo clone Toulik-Das/Route-Planner --recurse-submodules
 ```
 or with SSH:
 ```
